@@ -20,10 +20,12 @@
 
 - The annotation file is merely an annotation of a pre-existing package by Eun-Kyung Lee. The link to her code is provided [here](https://github.com/EK-Lee/classPP/blob/master/R/PPindex.R).
 
-- Zhaoxing Wu, my supervisor, provided the cirriculum.
+- Zhaoxing Wu, my supervisor, provided the cirriculum and a lot of guidance for the direction of my project.
 
 # Learning Outcomes
 
 - Learnt theoretics behind classical supervised classification techniques.
 
-- Penalized Discriminant Analysis as an extension of Linear Discriminant Analysis
+- Learnt the curse of dimensionality of how it ruins traditional machine learning models.
+
+- Learnt the concept of Penalized Discriminant Analysis as an extension of Linear Discriminant Analysis.
