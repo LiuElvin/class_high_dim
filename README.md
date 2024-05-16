@@ -11,4 +11,6 @@ The full slides and presentation can be found in the link below: [High Dimension
 
 # Contributions
 
+- The annotation file is merely an annotation of a pre-existing package by Eun-Kyung Lee. The link to her code is provided here.
+
 # Learning Outcomes
