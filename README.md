@@ -5,14 +5,14 @@
 
 3. Afterwards, I implemented PDA to analyze a real-life colon cancer dataset alongside a simple toy example with large dimension count but small sample size.
 
-- The full slides and presentation can be found in the link [here](https://docs.google.com/presentation/d/1oSrP5NRSWhoQRwXVjOmNRvVN8d4FA-LlYU0DCK1PzhE/edit?usp=sharing).
-
 # Files
 
 - `./data` contains the colon cancer data used for projections.
 - `./img` contains some of the plots used for the slides.
 - `./code` includes all of the code.
   - `./code/annotation`: annotation.
+ 
+- The full slides and presentation can be found in the link [here](https://docs.google.com/presentation/d/1oSrP5NRSWhoQRwXVjOmNRvVN8d4FA-LlYU0DCK1PzhE/edit?usp=sharing).
 
 ---
 
