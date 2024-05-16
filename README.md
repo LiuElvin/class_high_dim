@@ -26,6 +26,6 @@
 
 - Learnt theoretics behind classical supervised classification techniques.
 
-- Learnt the curse of dimensionality of how it ruins traditional machine learning models.
+- Learnt the curse of dimensionality and how it ruins traditional machine learning models.
 
 - Learnt the concept of Penalized Discriminant Analysis as an extension of Linear Discriminant Analysis.
