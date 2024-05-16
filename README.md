@@ -5,7 +5,7 @@ In this project, we will first learn or review (depends on student’s backgroun
 
 If time permits, students will implement PDA to analyze a real-life dataset of the student’s choice or some simple toy examples.
 
-The full slides and presentation can be found in the link below: [High Dimensional Data](https://docs.google.com/presentation/d/1oSrP5NRSWhoQRwXVjOmNRvVN8d4FA-LlYU0DCK1PzhE/edit?usp=sharing).
+The full slides and presentation can be found in the link [here](https://docs.google.com/presentation/d/1oSrP5NRSWhoQRwXVjOmNRvVN8d4FA-LlYU0DCK1PzhE/edit?usp=sharing).
 
 ---
 
