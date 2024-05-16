@@ -6,7 +6,7 @@
 
 3. Afterwards, I implemented PDA to analyze a real-life colon cancer dataset alongside a simple toy example with large dimension count but small sample size.
 
-4. The results were summarized in my end of quarter presentation. The full slides and presentation can be found in the link [here](https://docs.google.com/presentation/d/1oSrP5NRSWhoQRwXVjOmNRvVN8d4FA-LlYU0DCK1PzhE/edit?usp=sharing).
+4. The results were summarized in my end of quarter presentation. It focussed primarily on the curse of dimensionality, LDA, PDA, their applications on both a toy and real-life dataset. The full slides and presentation can be found in the link [here](https://docs.google.com/presentation/d/1oSrP5NRSWhoQRwXVjOmNRvVN8d4FA-LlYU0DCK1PzhE/edit?usp=sharing).
 
 # Files
 
