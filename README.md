@@ -10,8 +10,8 @@
 # Files
 
 - `./data` contains the colon cancer data used for projections.
-- `./img` contains the plots used for the slides.
-- `./code` includes all the code.
+- `./img` contains some of the plots used for the slides.
+- `./code` includes all of the code.
   - `./code/annotation`: annotation.
 
 ---
