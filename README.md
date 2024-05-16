@@ -7,6 +7,11 @@ If time permits, students will implement PDA to analyze a real-life dataset of t
 
 The full slides and presentation can be found in the link [here](https://docs.google.com/presentation/d/1oSrP5NRSWhoQRwXVjOmNRvVN8d4FA-LlYU0DCK1PzhE/edit?usp=sharing).
 
+- `./data` contains the data used for projections.
+- `./img` contains the plots used for the slides.
+- `./code` includes all the code.
+  - `./code/annotation`: annotation.
+
 ---
 
 # Contributions
